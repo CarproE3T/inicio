@@ -1,0 +1,1 @@
+{"IdRegistro":"2024-1","codigo":"2184681","nombre":"JUSTINIANO PEREZ ALMEIDA","correos":"[jofeplata@outlook.es, pruebas.dos@e3t.uis.edu.co]","programa":"26 - ING.ELECTRONICA","correoGmail":"salon.ie103@e3t.uis.edu.co","Estudiante":"codigo: 2184685, nombre: CORTES BOLAÑOS HENRY NICOLAS","Celular":"3122949102","resultado":"Exitoso","clave":"301985"}

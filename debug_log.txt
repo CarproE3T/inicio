@@ -1,0 +1,203 @@
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 907624
+)
+
+Redirigiendo a verificar_codigo.php
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 256986
+)
+
+Redirigiendo a verificar_codigo.php
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 845555
+)
+
+Redirigiendo a verificar_codigo.php
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 436071
+)
+
+Redirigiendo a verificar_codigo.php
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 661478
+)
+
+Redirigiendo a verificar_codigo.php
+Antes de consumir el WebService
+Respuesta del WebService: Array
+(
+    [resultado] => Exitoso
+    [clave] => 297490
+)
+
+Redirigiendo a verificar_codigo.php
+Código ingresado: 297490
+Código en sesión: 297490
+Resultado del WebService: Array
+(
+    [IdRegistro] => 2024-1
+    [codigo] => 2184681
+    [nombre] => JUSTINIANO PEREZ ALMEIDA
+    [correos] => [jofeplata@outlook.es, pruebas.dos@e3t.uis.edu.co]
+    [programa] => 26 - ING.ELECTRONICA
+    [correoGmail] => salon.ie103@e3t.uis.edu.co
+    [Estudiante] => codigo: 2184685, nombre: CORTES BOLAÑOS HENRY NICOLAS
+    [Celular] => 3122949102
+    [resultado] => Exitoso
+    [clave] => 305947
+)
+
+Error al obtener los datos del WebService.
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
+Antes de consumir el WebService
+Después de consumir el WebService
+Antes de header Location
